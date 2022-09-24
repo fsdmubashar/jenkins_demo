@@ -1,0 +1,5 @@
+sb se phale jenkins pr simple file create ki 
+than usko build kiya 
+fir github pr aa k new repo create ki 
+repo pr new file create ki
+abhi is file ko jenkins k sath connect karoo ga
